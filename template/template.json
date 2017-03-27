@@ -296,6 +296,9 @@
 								"java-1.8.0-openjdk-devel": []
 							}
 						},
+						"sources": {
+							"/opt": "https://services.gradle.org/distributions/gradle-3.4.1-bin.zip"
+						},
 						"files": {
 							"/tmp/java_setup": {
 								"content": {
