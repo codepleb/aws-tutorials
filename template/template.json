@@ -303,7 +303,6 @@
 										"\n",
 										[
 											"#!/bin/bash -ex",
-											"chmod -R 755 gradle-3.4.1/",
 											"yum install -y java-1.8.0",
 											"yum remove -y java-1.7.0-openjdk"
 										]
