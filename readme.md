@@ -1,4 +1,4 @@
-#----------
+# ----------
 # This project moved here: https://github.com/Zuehlke/aws-cloudformation-tutorial
 # ----------
 
