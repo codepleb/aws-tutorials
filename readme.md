@@ -1,3 +1,7 @@
+# *********************
+# This project moved here: https://github.com/Zuehlke/aws-cloudformation-tutorial
+# ********************
+
 # How to properly setup a Spring Boot Application using CloudFormation
 ## Intro
 The goal of this project is to give you a rocket start into AWS CloudFormation. It should lead you through the process of setting up a backend for yourself in only minutes. Adapting the template to other stacks/technologies should be as easy as possible. The focus lays on scalability and security. 
