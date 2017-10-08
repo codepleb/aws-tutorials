@@ -1,6 +1,6 @@
-# *********************
+#----------
 # This project moved here: https://github.com/Zuehlke/aws-cloudformation-tutorial
-# ********************
+# ----------
 
 # How to properly setup a Spring Boot Application using CloudFormation
 ## Intro
